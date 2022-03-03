@@ -1,4 +1,4 @@
 #Ejecución de Division
 
-d= 4/5
+d= 30/15
 print(d)
