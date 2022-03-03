@@ -2,5 +2,5 @@
 
 
 m= 20
-result = (a % 7)
+result = (m % 7)
 print(result)
