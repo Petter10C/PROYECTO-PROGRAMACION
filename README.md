@@ -51,15 +51,9 @@ print("El numero es:",num)
 
 ```
 ### Suma
-La suma se realiza uniendo el valor de 2 o más numeros (+)
-```python
-#Aqui ya se le asigna valor a las variables
- num1=6
- num2=10
- sum1=num1+num2
- print(num1,'-',num2,'=',sum1)
+Las operaciones de sumas se realizan con 2 o más numeros (+)
+pro ejemplo:
 
-```
 ```python
 #Aqui se debe ingresar valor a los numeros por consola
  num1=int(input("ingrese un numero:"))
@@ -69,15 +63,9 @@ La suma se realiza uniendo el valor de 2 o más numeros (+)
 
 ```
 ### Resta
-La resta se realiza quitando valores entre 2 o mas numeros 
-```python
-#Aqui ya se le asigna valor a las variables
-num1=10
-num2=7
-resta=num1-num2
-print(num1,'-',num2,'=',resta)
+Las operaciones de resta se realizan quitando valores entre 2 o mas numeros (-)
+por ejemplo:
 
-```
 ```python
 #Aqui se debe ingresar valor a los numeros por consola
 num1=int(input("ingrese un numero:"))
@@ -87,13 +75,7 @@ print(num1,'-',num2,'=',resta)
 
 ```
 ### Multiplicación
-Operación aritmética que consiste en calcular el resultado (producto) de sumar un mismo número (multiplicando) tantas veces como indica otro número (multiplicador); se representa con los signos · o ×.
-```python
-#Aqui ya se le asigna valor a las variables
-num1=10
-num2=7
-mult=num1*num2
-print(num1,'*',num2,'=',mult)
+Estas operaciones  consisten en calcular el resultado (producto) de sumar un mismo número (multiplicando) tantas veces como indica otro número (multiplicador); se representa con los signos · o ×.
 
 ```
 ```python
@@ -105,15 +87,8 @@ print(num1,'*',num2,'=',mult)
 
 ```
 ### División
-La división es aquella operación matemática mediante la cual se trata de descomponer un número,en tantas partes como así lo indique otro número
-```python
-#Aqui ya se le asigna valor a las variables
-num1=10
-num2=7
-divi=num1/num2
-print(num1,'/',num2,'=',divi)
+Es una operación matemática la cual  trata de descomponer un número,en tantas partes como así lo indique otro número
 
-```
 ```python
 #Aqui se debe ingresar valor a los numeros por consola
 num1=int(input("ingrese un numero:"))
@@ -132,14 +107,7 @@ modulo=num1%num2
 print(num1,'%',num2,'=',modulo)
 
 ```
-```python
-#Aqui se debe ingresar valor a los numeros por consola
-num1=int(input("ingrese un numero:"))
-num2=int(input("ingrese un numero:"))
-modulo=num1%num2
-print(num1,'%',num2,'=',modulo)
 
-```
 
 ## Tipos de datos en Python
 Los tipos de datos serían:
@@ -190,7 +158,7 @@ Una tupla es una colección de objetos de Python separados por comas. De alguna 
 ```python
 ()
 (1,2,4,5,6,7,8,9)
-("Hola", "me", "llamo","Brando")
+("Hola", "me", "llamo","Petter")
 
 ```
 
