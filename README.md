@@ -113,8 +113,8 @@ print(num1,'%',num2,'=',modulo)
 Los tipos de datos serían:
 * Numeros enteros
 * Numeros de punto flotante
-*  Texto (cadenas de caracteres)
-*  Booleanos (Verdadero y falso)
+* Texto (cadenas de caracteres)
+* Booleanos (Verdadero y falso)
 
 ### -Integer
 int= un numero entero como 21,7,8, etc. Ademas en este caso ya les asigne valor a la varibale dia
