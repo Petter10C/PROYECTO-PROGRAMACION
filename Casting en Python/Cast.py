@@ -4,6 +4,6 @@ numero1 = "20.150"
 
 numero2 = "15.5930"
 
-resultado = float(numero1) + float(numero2)
+sum1 = num1 + int(num2)
 
-print(resultado)
+print(sum1)
